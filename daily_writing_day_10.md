@@ -1,6 +1,6 @@
-                                            Daily writing -DAY- 10
+## Daily writing -DAY- 10
                                             
-      This is our 10 th day, we interns came to surfboard office with more expectations to learn and gain our knowledge
+This is our 10 th day, we interns came to surfboard office with more expectations to learn and gain our knowledge
 and to develop our skills ,At very first morning after breakfast i started to practice a designs related to html and css.
 I practiced many problems, i understood that by solving many problems we can gain many knowledge and can increase the speed 
 to solve problems.Iam really happy to say that i have learned the basics of the designs.
@@ -13,7 +13,7 @@ some mistakes in that answer so she returned me back to find out the correct ans
 with the help of my mentor i completed the problem
 
 Then we has a meeting with sri ram anna in that meeting he solved the probllem and shown us the answer for tom and 
-jerry problem and table problem and                       problem.he explained us clearly so that we under stood 
+jerry problem and table problem and Harry potter algorithm problem.he explained us clearly so that we under stood 
 the problem. 
 
    After the meeting i started coding the html and css to learn someting new i found there are lot of things which
