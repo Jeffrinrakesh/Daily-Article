@@ -1,0 +1,31 @@
+                                                   Daily Writing-Day-23
+                                                  
+Javascript:
+
+  In this day my mentor thaught me Javascript, in javascript she thaught me about two topics  one is array and the another 
+one is object.Array is a single variable that is used to store different elements.it is often used whwn we want to store 
+list of elements and access them by a single variable.unlike most languages where array ia reference to the multiple variable,
+in javascript  array is a single variable that stores multiple elements.array in javascript  are indexed from 0 so we can access
+elements from 0 and by the number.The array paramater is a list of strings  or integers.
+
+ The second one is object. object is an un ordered collection of key-value pairs.Each key value pair is called a property.
+The key of a property can be string and the value of a property can be any valid javascript value eg.,a string,a number,
+an array and even a function.When a function is a property of an object,it's often called a method.javascript provides you
+with many ways to create a new object.The most popular one is to use the object literal syntax.To create an object with
+properties,you use the key:value within the curly braces.To access a property of an object,you use one of two notations:
+the dot notation and array like notation.1) The dot Notation Objectname:propertyName this illustrates how to use the dot
+notation to access a property of an object and the second one is array like notation  objectname:['propertyname'] this 
+illustrates how to access the value of an object's property via the array-like notation.To delete a property of an object,
+you use the delete operator.
+
+Food website:
+
+ Today i finished my food website design where i have pending in sonme gradient and some picture inserting and some errors 
+in html page i fixed it.finally i finished it and iam really happy that i have completed the food website design by my own.
+
+Culture Talks:
+
+ today culture talks was conducted by abraham anna in this culture talks anna thaught us about friendship,Respect etc..
+i have gained many new things about friendship and he explained about how true friends will be true friends will be
+ready to sacrifise their life for their friends.and then he explained about respect how to respect others and how 
+timilians kind of respect differ from other culture etc. by the day ends well.

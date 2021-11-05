@@ -1,0 +1,36 @@
+                                                        Daily writing Day-24
+                                                        
+   In this day i have learned loops and fuctions in javascript and i learned data models and JSON. 
+
+Loops:
+  In very first morning first i have been taught by loop, loop executes block of code as long as a specific condition is true.
+In javascript loops are taken as in three arguments:Initialization,Condition,and Increment...Loops repeat the same block of
+code until a certain condition is met. They are useful for many repetitive programming tasks.in loops i have studied two 
+types of loops one is for loop and another is while loop.In javascript for loop executes a block of code as long as a specified 
+condition is true,Javascript for loops takes three aarguments:initialization,condition and increment.loops repeat the same 
+block of code until a certain condition is met.example for for loop is if we want to check the grade of every student in 
+the class,we loop from 1 to that number.then i have learned while loop in javascript while loop executes block of code while
+a condition eveluates to true.while loop stop executingwhwn their condition evaluates to false.A while loop lets you repeat
+a block of code multiple times.this is what i learned in loops in this day 
+
+Functions:
+  A function in javascript is similar to a procedure, a set of statements that performs a task or calculates a value ,
+but for a procedure to qualify a sa function,it should take some input and return an output where there is some obvious 
+relationship between the input and the output.there are two advantages of javascript functions.1) code reusability:we can
+call a function several times so it save coding.2)Less coding:it makes our program compact.we don't need to write many 
+lines of code each time to perform a common task.
+
+Data modelling:
+  Data modelling is a process of creating a simple diagram of a complex software system,using text and symbols to represent
+the way the data will flow. the diagram can be used to ensure efficient use of data as a blueprint for the construction of
+new software.
+
+JSON:
+  In,Json data is represented in key-value pairs,and curly braces hold objects,where a colon is followed after each time.
+The comma is used to seperate a key value pairs.square brackets are used to hold arrays,where each value is comma seperated.
+
+Demo meeting:
+  After that at evening demo meeting starts and every one started explaining about what they have done and what they are
+going to do one by one by team all are explained and after we interns got a chance to explain that what we have done in this 
+week.
+                                                        
