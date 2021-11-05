@@ -1,0 +1,30 @@
+                                                          Daily writing-Day-15
+
+ This is our 15th day we interns came to surfboard office with more expectations and to learn and develop our skills. After breakfast i started 
+preparing for cloud computing and then my mentor reviewed my home works and explains what mistakes i have done and then i am asked to design 
+food website. first i asked to plan how to design and how will be it useful to others and how to design it shortly and then so i decided to build 
+a website that shows the hotels in the particular location and the food available in the particular hotels and the price range of the food also be
+shown in the page and this design is the challenging design for me because this the the bit complecated website that i going to design for first time
+
+  After that i started the coading for design i choosed for locations for the food availability in four different areas so that i want to create the 
+four pages of html and css coding it took some time to finish.then by the way i continue doing the design.Then i had many doubt regarding the design
+my mentor helped me by explaining the doubts and we got a home work of 8 problems to solve.
+
+  After reaching home we all interns formed a group and started doing the problem the first problem is is the problem solving the question is 1.start 
+2.set name as abraham 3.print name 4.Add surfboard to the begining of the name 5.print name 6.Goto step 2 and continue till you print name 5 times
+7.stop. this is  the first  question that given to us and i wrote the answer as abraham surfboard abraham, Abraham surfboard Abraham,Abraham Surfboard
+Abraham,Abraham Surfboard Abraham,Abraham Surfboard Abraham,Abraham Surfboard Abraham. So this is the answer that i got 
+
+ And the second question that i got is there is the 3 10 digit number so we should take each of the one and regect the last digit of the number 
+and multiply all other numbers in to 2 then add all the numbers then look the added value and the last number is same if the values are same then 
+it satisfies.
+
+ And the third  question is 1.start 2.set max =0 3.Take a number from the input 4. Check if number is greater than max,if it is set max number
+5.go to step 3 until all given numbers are exhausted 6. print max 7.stop. then take any three number and it will be max. And the next question 
+tower of hanoi in that question while the disk changes the smaller size disk won't be under the larger size disk 
+
+ And the next question is to write the algorithm to miltiply two four digit numbers.Assume the computer knows nothing about multiplication
+and only about addition 2*4=8 and for addition 2+2+2+2=8
+
+ And the next question is How will you teach your computer to find the Gcd and i solved this problem and next two questions is an algorithm 
+which to write long in the note book.
